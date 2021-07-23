@@ -1,6 +1,10 @@
 Enable Code
 F012E14C 000001FD
 
+If the above Enable Code does not work then try:
+Enable Code
+90251918 0C0945EE
+
 DNAS Bypass
 D09C37DC 00000006
 009C37D0 00000000
