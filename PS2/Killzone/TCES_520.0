@@ -2,7 +2,7 @@ Use the DNAS Patcher on the ISO:
 https://www.psx-place.com/threads/dnas-net-patcher.22813/
 
 Enable Code
-F01770C0 000001FD
+9035AB18 0C0D6A6E
 
 IP Address  Update
 Killzone Update IP
