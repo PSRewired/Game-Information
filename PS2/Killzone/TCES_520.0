@@ -4,6 +4,12 @@ https://www.psx-place.com/threads/dnas-net-patcher.22813/
 Enable Code
 9035AB18 0C0D6A6E
 
+Update Region Flag (Only this should be needed and not the IP Address Update)
+206A1954 00000002
+
+
+OR 
+
 IP Address  Update
 Killzone Update IP
 20666E88 2E353331
