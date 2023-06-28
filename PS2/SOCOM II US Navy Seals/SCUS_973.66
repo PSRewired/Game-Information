@@ -1,12 +1,3 @@
-DNAS Bypass r0001 
-202CC670 03E00008
-202CC674 00000000
-
-NOTE:
-After connecting online and downloading the r0004 patch, the game will tell you it needs to restart. Let it do that but after it reboots the game, reset the console. 
-This code is only for the r0001 version of the game and if left on will cause the game to go into a reboot loop
-
-
-DNAS Bypass r0004
-203953C0 03E00008
-203953C4 00000000
+DNAS Bypass(Harry62)
+203953C0 03e00008
+203953C4 00000000 
