@@ -1,2 +1,13 @@
 Use the DNAS Patcher on the ISO:
 https://www.psx-place.com/threads/dnas-net-patcher.22813/
+
+or use these codes provided by OFTF 🇬🇧:
+
+Mastercode
+903167C8 0C0C599A
+
+DNAS bypass
+D039FBA4 24020006
+0039FB98 00000000
+D039FBA4 24020006
+0039FBA4 00000005
